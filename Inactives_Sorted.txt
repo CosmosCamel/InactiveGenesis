@@ -858,7 +858,8 @@ juno12pc8lw4w5pur4wn4sxfwh53nce3dcz5e2cs3nr 1035.56 - 5943238
 juno1lmlqzf8f0hun7x57myfp2yqdgqsel0da5matne 1031.54 - Inactive
 juno1l5pk5fcgaw95z0zlek8j4yef99lamg3gxf8vqc 1030.33 - 12368065
 juno1hxmg2jpmnmaapr67hk83hplfj9zgaf2wfs32q0 1030.25 - 6128408
-juno1wy6nuu8enrgackp66ctp0keh2gvnfjzjqdlqcn 1030.04 - Inactivejuno17xscdfdksltvc4gnd4nja6jma5ssat9htxzx23 1029.57 - 7051045
+juno1wy6nuu8enrgackp66ctp0keh2gvnfjzjqdlqcn 1030.04 - Inactive
+juno17xscdfdksltvc4gnd4nja6jma5ssat9htxzx23 1029.57 - 7051045
 juno1sep03pna56kv7qhtzs7lhhsvysjcc2m4n49sr4 1028.57 - 12603018
 juno1z5fqndqq9wwumfrx3hff74na30knx2f9dl7zv8 1025.21 - 10566981
 juno1tsap43jjvwmdxdryac4zc2u6z6mz2a2e8rp2k5 1024.3 - 8666525
